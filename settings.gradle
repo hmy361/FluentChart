@@ -1,2 +1,4 @@
+include ':libCalculate'
+include ':chart'
 include ':app'
 rootProject.name = "FluentChart"
